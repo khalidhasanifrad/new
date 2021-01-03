@@ -6,8 +6,6 @@ body {
   margin: 10px 10px 20px 10px;
   padding: 20px 10px;
   border-radius: 30px;
-  width: 45%;
-  float: left;
 }
 .hb h1 {
   color: green;
@@ -23,6 +21,6 @@ body {
   width: 50%;
 }
 #sh {
-  width: 30%;
-  height: 350px;
+  width: 25%;
+  height: 300px;
 }
